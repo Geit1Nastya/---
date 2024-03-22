@@ -1,0 +1,66 @@
+header, footer { 
+    background-color: #efb9cb; 
+    padding: 10px; 
+  } 
+   
+  main { 
+    padding: 10px; 
+    background-color: silver; 
+  } 
+   
+  .post { 
+    background-color: white; 
+    padding: 20px; 
+    border-radius: 10px; 
+    margin-bottom: 20px;
+    margin-top: 10px;  
+    display: flex; 
+  } 
+   
+  .post img { 
+    margin: 20px; 
+  } 
+  #nav{ 
+      display:inline; 
+      float:right; 
+      margin-top:-60px; 
+ 
+  } 
+  #nav a { 
+     
+      padding:15p; 
+      margin-right: 50px; 
+      font:30px Arial; 
+      text-decoration: none; 
+      color: rgb(255, 255, 255); 
+      background-color:#fac2d5 ; 
+      border: 3px #fac2d5 solid; 
+      border-radius: 10px; 
+ 
+  } 
+   
+  #nav a:hover{ 
+      color: rgb(255, 255, 255); 
+      background-color:#fac2d5 ; 
+      border: 7px #cf8aa1  solid; 
+  } 
+  .your-class img{ 
+      width:400px; 
+      height:500px; 
+flex-wrap: wrap; 
+  }
+.comment {
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+margin-top: 10px;
+ margin-bottom: 10px;
+}
+.author {
+margin-top: 0px;
+margin-bottom: 10px;
+}
+
+#sub-comment {
+margin-left: 40px;
+}
